@@ -1,4 +1,1 @@
-# For Colorful Outputs
-
-
-print(__name__)
+# COLORFUL OUTPUTS
