@@ -1,2 +1,3 @@
 print("Hello")
-print("Welocome  to Minahil Ghafoor!")
+print("Welcome  to Minahil Ghafoor!")
+print("Gosh Have no idea what to write next!")
